@@ -20,21 +20,3 @@ business's success is really just location, location, location? What businesses 
 subcategory (i.e., Szechuan or Hunan versus just “Chinese restaurants”), and can you learn this
 from the review text? What are the differences between the cities in the dataset? There is a
 myriad of deep, machine learning questions to tackle with this rich dataset.
-
-Challenge Summary:
-● The Yelp Dataset Challenge begins January 24, 2017 and continues through June 30, 2017,
-however, Yelp may end the contest at any time at its sole discretion.
-● Contest is open only to undergraduate and graduate university students. Participants must be
-18 or older, currently enrolled in an accredited degree program in any field, and must be from
-countries not restricted by the Office of Foreign Assets Control of the U.S. Department of the
-Treasury.
-● Access to the Yelp Dataset is governed by the separate Dataset Challenge Academic Dataset
-Agreement.
-● To qualify for a $5,000 Grand Prize, you must submit your code and a writeup of your project
-to Yelp via http://www.yelp.com/dataset_challenge before June 30, 2017. Up to ten individuals
-or team entrants may receive this Grand Prize. (See below for restrictions on team size and
-entry).
-● Each Grand Prize winner may qualify for an additional $1,000 Publication Prize if their work is
-published by a peer reviewed academic journal, and if published, an additional $500 prize may
-be awarded to pay for attendance at an academic or industry conference to present your work.
-● All prize awards are subject to Yelp’s verification of your compliance with all stated rules.
